@@ -7,7 +7,6 @@
 - Currently learning :<br>
   <br>
 ![React](Images/reactlogosmall.png)  ![NodeJS](Images/nodejslogosmall.png)
-<br>
 - I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 - I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
 ***
