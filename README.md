@@ -12,10 +12,15 @@
 - I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
 ***
 ***
+
 ## You can connect with me on :
+
 [![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn][![Instagram](Images/instagramlogosmall.png)][Instagram][![Twitter](Images/twitterlogosmall.png)][Twitter][![Github](Images/githublogosmall.png)][Github][![Email](Images/emaillogosmall.png)][Email]
 ***
+***
+
 ## Things I know :
+
 ![C](Images/clogosmall.png)![CPP](Images/cpplogosmall.png)![Python](Images/pythonlogosmall.png)![HTML](Images/htmllogosmall.png)![CSS](Images/csslogosmall.png)![JS](Images/jslogosmall.png)![Matlab](Images/matlablogosmall.png)![Adobe Illustrator](Images/illustratorlogosmall.png)
 
 ***
