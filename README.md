@@ -2,9 +2,9 @@
 ***
 ***
 - I am a Computer Engineering undergrad student at J.C. Bose University of Science and Technology, YMCA🎓
-- I like to </> and build cool stuff 😃<br>
-- I love aesthetic UIs, designs and Customizing.
-- Currently learning :<br>
+- I ❤ to </> and build cool stuff 😃<br>
+- I ❤ aesthetic UIs, Designs and Customizing.
+- Currently learning 📝 :<br>
   <br>
 ![React](Images/reactlogosmall.png)  ![NodeJS](Images/nodejslogosmall.png)
 - I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
