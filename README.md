@@ -20,7 +20,7 @@
 
 ***
 
-## Things I know :
+## Things I Know :
 
 [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
