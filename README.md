@@ -22,7 +22,7 @@
 
 ## Things I know :
 
-[![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![C](Images/clogosmall.png)](Things I know)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Python](Images/pythonlogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![HTML](Images/htmllogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
