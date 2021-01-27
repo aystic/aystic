@@ -1,6 +1,6 @@
 ***
 ***
-![Welcome](Images/welcome1.png)
+[![Welcome](Images/welcome1.png)](#)
 ***
 - I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓
 - I ❤ to </> and build cool stuff 😃<br>
