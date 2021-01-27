@@ -5,9 +5,6 @@
 - I am a Computer Engineering undergrad student at J.C. Bose University of Science and Technology, YMCA🎓
 - I ❤ to </> and build cool stuff 😃<br>
 - I ❤ aesthetic UIs, Designs and Customizing.
-- Currently learning 📝 :<br>
-  <br>
-![React](Images/reactlogosmall.png)  ![NodeJS](Images/nodejslogosmall.png)
 - I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 - I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
 ***
@@ -25,6 +22,10 @@
 <br>
 
 ***
+
+## Currently Learning :
+- ![React](Images/reactlogosmall.png)<br>
+- ![NodeJS](Images/nodejslogosmall.png)
 
 ## My Latest Projects :
 - [Charity Management System][Project]
