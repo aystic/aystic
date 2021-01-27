@@ -55,8 +55,8 @@
 
 [Email]: <mailto: pmohitb3011@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/aystic/>
-[Instagram]: <https://www.instagram.com/pmohit_404/>
-[Twitter]: <https://twitter.com/PathakMohit_404>
+[Instagram]: <https://www.instagram.com/aystic0_0/>
+[Twitter]: <https://twitter.com/aystic0_0>
 [Github]: <https://github.com/aystic>
 [Project]: <https://github.com/aystic/CharityManagementSystem>
 [Telegram]: <https://t.me/aystic0_0>
