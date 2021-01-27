@@ -2,30 +2,41 @@
 ***
 ![Welcome](Images/welcome.png)
 ***
-- I am a Computer Engineering undergrad student at J.C. Bose University of Science and Technology, YMCA🎓
+- I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓
 - I ❤ to </> and build cool stuff 😃<br>
 - I ❤ aesthetic UIs, Designs and Customizing.
 - I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 - I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
 ***
 
-## You can connect with me on :
+## Get In Touch :
 
-[![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn] [![Instagram](Images/instagramlogosmall.png)][Instagram]  [![Twitter](Images/twitterlogosmall.png)][Twitter]  [![Github](Images/githublogosmall.png)][Github] [![Email](Images/emaillogosmall.png)][Email]
+[![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](Images/instagramlogosmall.png)][Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ***
 
 ## Things I know :
 
-![C](Images/clogosmall.png)
-![CPP](Images/cpplogosmall.png) ![Python](Images/pythonlogosmall.png) ![HTML](Images/htmllogosmall.png) ![CSS](Images/csslogosmall.png) ![JS](Images/jslogosmall.png) ![Matlab](Images/matlablogosmall.png) ![Adobe Illustrator](Images/illustratorlogosmall.png)
+[![C](Images/clogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![CPP](Images/cpplogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Python](Images/pythonlogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![HTML](Images/htmllogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![CSS](Images/csslogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![JS](Images/jslogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Matlab](Images/matlablogosmall.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Adobe Illustrator](Images/illustratorlogosmall.png)]()
 <br>
 <br>
 
 ***
 
 ## Currently Learning :
-- ![React](Images/reactlogosmall.png)<br>
-- ![NodeJS](Images/nodejslogosmall.png)
+- [![React](Images/reactlogosmall.png)]()
+- [![NodeJS](Images/nodejslogosmall.png)]()
 
 ***
 
@@ -47,3 +58,4 @@
 [Twitter]: <https://twitter.com/PathakMohit_404>
 [Github]: <https://github.com/aystic>
 [Project]: <https://github.com/aystic/CharityManagementSystem>
+[Telegram]: <https://t.me/aystic0_0>
