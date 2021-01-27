@@ -27,6 +27,8 @@
 - ![React](Images/reactlogosmall.png)<br>
 - ![NodeJS](Images/nodejslogosmall.png)
 
+***
+
 ## My Latest Projects :
 - [Charity Management System][Project]
 ***
