@@ -1,5 +1,6 @@
-## Hi there 👋, I'm Mohit Pathak, Welcome to my Github Profile.
 ***
+***
+![Welcome](Images/welcome.png)
 ***
 - I am a Computer Engineering undergrad student at J.C. Bose University of Science and Technology, YMCA🎓
 - I ❤ to </> and build cool stuff 😃<br>
@@ -10,12 +11,10 @@
 - I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 - I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
 ***
-***
 
 ## You can connect with me on :
 
 [![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn] [![Instagram](Images/instagramlogosmall.png)][Instagram]  [![Twitter](Images/twitterlogosmall.png)][Twitter]  [![Github](Images/githublogosmall.png)][Github] [![Email](Images/emaillogosmall.png)][Email]
-***
 ***
 
 ## Things I know :
@@ -26,11 +25,9 @@
 <br>
 
 ***
-***
 
 ## My Latest Projects :
 - [Charity Management System][Project]
-***
 ***
 ## My Github Stats :
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
