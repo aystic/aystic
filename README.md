@@ -54,7 +54,7 @@
 
 
 [Email]: <mailto: pmohitb3011@gmail.com>
-[LinkedIn]: <https://www.linkedin.com/in/aystic0_0/>
+[LinkedIn]: <https://www.linkedin.com/in/aystic/>
 [Instagram]: <https://www.instagram.com/aystic0_0/>
 [Twitter]: <https://twitter.com/aystic0_0>
 [Github]: <https://github.com/aystic0_0>
