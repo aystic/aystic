@@ -11,7 +11,7 @@
 
 ## You can connect with me on :
 
-[![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](Images/instagramlogosmall.png)][Instagram]  [![Twitter](Images/twitterlogosmall.png)][Twitter]  [![Github](Images/githublogosmall.png)][Github] [![Email](Images/emaillogosmall.png)][Email]
+[![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]  [![Instagram](Images/instagramlogosmall.png)][Instagram]  [![Twitter](Images/twitterlogosmall.png)][Twitter]  [![Github](Images/githublogosmall.png)][Github] [![Email](Images/emaillogosmall.png)][Email]
 ***
 
 ## Things I know :
