@@ -14,7 +14,7 @@
 [![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](Images/instagramlogosmall.png)][Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 [![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
