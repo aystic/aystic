@@ -20,14 +20,26 @@
 
 ## Things I know :
 
-![C](Images/clogosmall.png) ![CPP](Images/cpplogosmall.png) ![Python](Images/pythonlogosmall.png) ![HTML](Images/htmllogosmall.png) ![CSS](Images/csslogosmall.png) ![JS](Images/jslogosmall.png) ![Matlab](Images/matlablogosmall.png) ![Adobe Illustrator](Images/illustratorlogosmall.png)
+![C](Images/clogosmall.png)
+![CPP](Images/cpplogosmall.png) ![Python](Images/pythonlogosmall.png) ![HTML](Images/htmllogosmall.png) ![CSS](Images/csslogosmall.png) ![JS](Images/jslogosmall.png) ![Matlab](Images/matlablogosmall.png) ![Adobe Illustrator](Images/illustratorlogosmall.png)
+<br>
+<br>
 
 ***
 ***
+
 ## My Latest Projects :
 - [Charity Management System][Project]
 ***
 ***
+## My Github Stats :
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+***
+***
+
+<!-- ## My Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aystic&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 [Email]: <mailto: pmohitb3011@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/aystic/>
