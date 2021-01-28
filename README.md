@@ -47,7 +47,7 @@
 ***
 
 ## My Latest Projects :
-- [Charity Management System][Project]
+- **[Charity Management System][Project]**
 ***
 ## My Github Stats :
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
