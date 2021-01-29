@@ -23,7 +23,7 @@
 
 ***
 ## ▶ My PGP Key :
-▼ [Get My PGP Key][PGP]
+▼ <a href="https://pgpaystic.netlify.app/" target="_blank">Get My PGP Key</a>
 
 ***
 ## ▶ Get In Touch :
