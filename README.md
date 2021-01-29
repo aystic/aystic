@@ -131,4 +131,4 @@
 [Hack]: <https://github.com/source-foundry/Hack>
 [FiraCode]: <https://github.com/tonsky/FiraCode>
 [Libreoffice]: <https://www.libreoffice.org/>
-[PGP]: <https://pgpaystic.netlify.app/>
+[PGP]: <https://aystic.github.io/PublicKey/>
