@@ -3,9 +3,7 @@
 
 <br>
 
-▼
-<br>
-
+## ▼
 [![Welcome](Images/welcome1.png)](#)
 
 <br>
@@ -29,12 +27,12 @@
 ## ▶ Get In Touch :
 
 
-[![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](Images/instagramlogosmall.png)][Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Instagram](Images/instagramlogosmall.png)][Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -43,14 +41,14 @@
 ## ▶ Things I Know :
 
 
-[![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Python](Images/pythonlogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![HTML](Images/htmllogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![CSS](Images/csslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![JS](Images/jslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Matlab](Images/matlablogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Adobe Illustrator](Images/illustratorlogosmall.png)](#)
+◥ [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![Python](Images/pythonlogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![HTML](Images/htmllogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![CSS](Images/csslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![JS](Images/jslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![Matlab](Images/matlablogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+◥ [![Adobe Illustrator](Images/illustratorlogosmall.png)](#)
 
 <br>
 
@@ -58,8 +56,8 @@
 
 ## ▶ Currently Learning :
 
-[![React](Images/reactlogosmall.png)](#)<br  >
-[![NodeJS](Images/nodejslogosmall.png)](#)
+◥ [![React](Images/reactlogosmall.png)](#)<br  >
+◥ [![NodeJS](Images/nodejslogosmall.png)](#)
 
 <br>
 
@@ -76,7 +74,8 @@
 
 ## ▶ My Github Stats :
 
-▼[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+## ▼
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -89,7 +88,8 @@
 
 <br>
 
-▼[![Windows Customization](Images/windowsdesktop.png)](#)
+## ▼
+[![Windows Customization](Images/windowsdesktop.png)](#)
 **Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
 **I am not the owner of the icons used in the dock.*
 
@@ -101,11 +101,13 @@
 
 <br>
 
-▼[![Notes](Images/notes1.png)](#)
+## ▼
+[![Notes](Images/notes1.png)](#)
 
 <br>
 
-▼[![Notes](Images/notes2.png)](#)
+## ▼
+[![Notes](Images/notes2.png)](#)
 **Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
 
 
