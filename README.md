@@ -107,7 +107,7 @@
 
 ## ▼
 [![Notes](Images/notes2.png)](#)<br>
-**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
+**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*<br>
 **I used* *[Libreoffice][Libreoffice]* *to make the notes.*
 
 
