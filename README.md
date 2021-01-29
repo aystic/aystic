@@ -3,28 +3,30 @@
 
 <br>
 
+▼
+<br>
+
 [![Welcome](Images/welcome1.png)](#)
 
 <br>
 
 ***
 
+## ▶ About Me
+
 <br>
 
-- I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓
-- I ❤ to </> and build cool stuff 😃<br>
-- I ❤ aesthetic UIs, Designs and Customizing.
-- I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
-- I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃
+▼ I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
+▼ I ❤ to </> and build cool stuff 😃<br>
+▼ I ❤ aesthetic UIs, Designs and Customizing.<br>
+▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.<br>
+▼ I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃<br>
 
 <br>
 
 ***
 
-<br>
-
-
-## Get In Touch :
+## ▶ Get In Touch :
 
 
 [![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,10 +40,7 @@
 
 ***
 
-<br>
-
-
-## Things I Know :
+## ▶ Things I Know :
 
 
 [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,9 +56,7 @@
 
 ***
 
-<br>
-
-## Currently Learning :
+## ▶ Currently Learning :
 
 [![React](Images/reactlogosmall.png)](#)<br  >
 [![NodeJS](Images/nodejslogosmall.png)](#)
@@ -68,37 +65,31 @@
 
 ***
 
-<br>
-
-## My Latest Projects :
+## ▶ My Latest Projects :
 
 
-- **[Charity Management System][Project]**
+▼ **[Charity Management System][Project]**
 
 <br>
 
 ***
 
-<br>
+## ▶ My Github Stats :
 
-## My Github Stats :
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+▼[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ***
 
-<br>
-
-## Some Cool Stuff I Built :
+## ▶ Some Cool Stuff I Built :
 
 
-- Building Skin For My Windows Machine (The default was kinda boring 😬)
+▼ Building Skin For My Windows Machine (The default was kinda boring 😬)
 
 <br>
 
-![Windows Customization](Images/windowsdesktop.png)
+▼[![Windows Customization](Images/windowsdesktop.png)](#)
 **Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
 **I am not the owner of the icons used in the dock.*
 
@@ -106,17 +97,15 @@
 
 ***
 
-<br>
-
-## This Is How I Make Notes :
+## ▶ This Is How I Make Notes :
 
 <br>
 
-![Notes](Images/notes1.png)
+▼[![Notes](Images/notes1.png)](#)
 
 <br>
 
-![Notes](Images/notes2.png)
+▼[![Notes](Images/notes2.png)](#)
 **Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
 
 
@@ -125,8 +114,6 @@
 ***
 ***
 
-<!-- ## My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aystic&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [Email]: <mailto: pmohitb3011@gmail.com>
