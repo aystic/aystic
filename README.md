@@ -9,20 +9,23 @@
 
 ***
 
-## ▶ About Me
+## ▶ About Me :
 
 <br>
 
 ▼ I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I ❤ to </> and build cool stuff 😃<br>
 ▼ I ❤ aesthetic UIs, Designs and Customizing.<br>
-▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.<br>
+▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 ▼ I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃<br>
 
 <br>
 
 ***
+## ▶ My PGP Key :
+▼ [Get My PGP Key][PGP]
 
+***
 ## ▶ Get In Touch :
 
 
@@ -128,3 +131,4 @@
 [Hack]: <https://github.com/source-foundry/Hack>
 [FiraCode]: <https://github.com/tonsky/FiraCode>
 [Libreoffice]: <https://www.libreoffice.org/>
+[PGP]: <https://pgpaystic.netlify.app/>
