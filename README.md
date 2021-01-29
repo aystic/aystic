@@ -88,7 +88,7 @@
 <br>
 
 ## ▼
-[![Windows Customization](Images/windowsdesktop.png)](#)
+[![Windows Customization](Images/windowsdesktop.png)](#)<br>
 **Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
 **I am not the owner of the icons used in the dock.*
 
@@ -106,7 +106,7 @@
 <br>
 
 ## ▼
-[![Notes](Images/notes2.png)](#)
+[![Notes](Images/notes2.png)](#)<br>
 **Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
 **I used* *[Libreoffice][Libreoffice]* *to make the notes.*
 
