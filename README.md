@@ -26,7 +26,6 @@
 
 ## Get In Touch :
 
-<br>
 
 [![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,8 +42,6 @@
 
 
 ## Things I Know :
-
-<br>
 
 
 [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,8 +61,6 @@
 
 ## Currently Learning :
 
-<br>
-
 [![React](Images/reactlogosmall.png)](#)<br  >
 [![NodeJS](Images/nodejslogosmall.png)](#)
 
@@ -77,7 +72,6 @@
 
 ## My Latest Projects :
 
-<br>
 
 - **[Charity Management System][Project]**
 
@@ -89,8 +83,6 @@
 
 ## My Github Stats :
 
-<br>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -101,15 +93,14 @@
 
 ## Some Cool Stuff I Built :
 
-<br>
 
-- Building Skin For My Windows Machine (I got bored of the default one 😬)
+- Building Skin For My Windows Machine (The default was kinda boring 😬)
 
 <br>
 
 ![Windows Customization](Images/windowsdesktop.png)
-`*Fonts used here are` **[Hack by source-foundry.][Hack]**<br>
-`*I am not the owner of the icons used in the dock.`
+**Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
+**I am not the owner of the icons used in the dock.*
 
 <br>
 
@@ -126,7 +117,7 @@
 <br>
 
 ![Notes](Images/notes2.png)
-`*Fonts used here are` **[FiraCode by Nikita Prokopov.][FiraCode]**
+**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
 
 
 <br>
