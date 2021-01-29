@@ -108,6 +108,7 @@
 ## ▼
 [![Notes](Images/notes2.png)](#)
 **Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
+**I used* *[Libreoffice][Libreoffice]* *to make the notes.*
 
 
 <br>
@@ -126,3 +127,4 @@
 [Telegram]: <https://t.me/aystic0_0>
 [Hack]: <https://github.com/source-foundry/Hack>
 [FiraCode]: <https://github.com/tonsky/FiraCode>
+[Libreoffice]: <https://www.libreoffice.org/>
