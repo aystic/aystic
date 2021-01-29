@@ -3,7 +3,6 @@
 
 <br>
 
-## ▼
 [![Welcome](Images/welcome1.png)](#)
 
 <br>
