@@ -99,7 +99,7 @@
 
 ***
 
-## ▶ This Is How I Make Notes :
+## ▶ My Designs For Making Notes :
 
 <br>
 
