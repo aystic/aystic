@@ -19,20 +19,23 @@
 
 ***
 
-## ▶ About Me
+## ▶ About Me :
 
 <br>
 
 ▼ I am a **Computer Engineering** undergrad student at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I ❤ to </> and build cool stuff 😃<br>
 ▼ I ❤ aesthetic UIs, Designs and Customizing.<br>
-▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.<br>
+▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.
 ▼ I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃<br>
 
 <br>
 
 ***
+## ▶ My PGP Key :
+▼ [Get My PGP Key][PGP]
 
+***
 ## ▶ Get In Touch :
 
 
@@ -98,7 +101,7 @@
 <br>
 
 ## ▼
-[![Windows Customization](Images/windowsdesktop.png)](#)
+[![Windows Customization](Images/windowsdesktop.png)](#)<br>
 **Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
 **I am not the owner of the icons used in the dock.*
 
@@ -106,7 +109,7 @@
 
 ***
 
-## ▶ This Is How I Make Notes :
+## ▶ My Designs For Making Notes :
 
 <br>
 
@@ -116,8 +119,9 @@
 <br>
 
 ## ▼
-[![Notes](Images/notes2.png)](#)
-**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*
+[![Notes](Images/notes2.png)](#)<br>
+**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*<br>
+**I used* *[Libreoffice][Libreoffice]* *to make the notes.*
 
 
 <br>
@@ -136,3 +140,5 @@
 [Telegram]: <https://t.me/aystic0_0>
 [Hack]: <https://github.com/source-foundry/Hack>
 [FiraCode]: <https://github.com/tonsky/FiraCode>
+[Libreoffice]: <https://www.libreoffice.org/>
+[PGP]: <https://aystic.github.io/PublicKey/>
