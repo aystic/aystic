@@ -41,7 +41,6 @@
 
 [◥ ![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [◥ ![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Instagram](Images/instagramlogosmall.png)][Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [◥ ![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [◥ ![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [◥ ![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -133,7 +132,6 @@
 
 [Email]: <mailto: pmohitb3011@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/aystic/>
-[Instagram]: <https://www.instagram.com/aystic0_0/>
 [Twitter]: <https://twitter.com/aystic0_0>
 [Github]: <https://github.com/aystic>
 [Project]: <https://github.com/aystic/CharityManagementSystem>
