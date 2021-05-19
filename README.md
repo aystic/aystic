@@ -93,7 +93,7 @@
 
 ## ▶ Some Cool Stuff I Built :
 
-▼ Skin For Windows (The default was kinda boring 😬)
+## ▼ Skin For Windows (The default was kinda boring 😬)
 
 <br>
 
@@ -139,8 +139,8 @@
 ## ▼
 
 [![Notes](Images/notes2.png)](#)<br>
-**Fonts used here are\* _[FiraCode by Nikita Prokopov.][firacode]_<br>
-**I used\* _[Libreoffice][libreoffice]_ _to make the notes._
+**Fonts used here are [FiraCode by Nikita Prokopov.][firacode]_<br>
+**I used [Libreoffice][libreoffice] to make the notes.
 
 <br>
 
