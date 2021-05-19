@@ -128,13 +128,9 @@
 
 <br>
 
-## ▼
-
 [![Notes](Images/notes1.png)](#)
 
 <br>
-
-## ▼
 
 [![Notes](Images/notes2.png)](#)<br>
 **Fonts used here are [FiraCode by Nikita Prokopov.][firacode]<br>
