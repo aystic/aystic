@@ -107,11 +107,11 @@
 
 ## ▼ Cursors For Windows
 
-[![Material-Light Cursor](Images/Material_Light.png)](#)<br>
+[![Material-Light Cursor](Images/Material-Light.png)](#)<br>
 
-[![Volantes-Light Cursor](Images/Volantes_Light.png)](#)<br>
+[![Volantes-Light Cursor](Images/Volantes-Light.png)](#)<br>
 
-[![Volantes-Dark Cursor](Images/Volantes_Dark.png)](#)<br>
+[![Volantes-Dark Cursor](Images/Volantes-Dark.png)](#)<br>
 
 <br>
 
