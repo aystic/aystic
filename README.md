@@ -2,7 +2,7 @@
 * @Author: Mohit Pathak
 * @Date:   2021-01-30 03:39:33
 * @Last Modified by:   Mohit Pathak
-* @Last Modified time: 2021-02-02 10:05:09
+* @Last Modified time: 2021-05-20 00:34:09
  -->
 
 ---
@@ -134,7 +134,7 @@
 
 [![Notes](Images/notes2.png)](#)<br>
 **Fonts used here are [FiraCode by Nikita Prokopov.][firacode]<br>
-**I used [Libreoffice][libreoffice] to make the notes.
+**Software used [Libreoffice][libreoffice]
 
 <br>
 
