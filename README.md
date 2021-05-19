@@ -91,13 +91,11 @@
 
 ---
 
-## ▶ Some Cool Stuff I Built :
+## ▶ Some Stuff I Built :
 
 ## ▼ Skin For Windows (The default was kinda boring 😬)
 
 <br>
-
-## ▼
 
 [![Windows Customization](Images/windowsdesktop.png)](#)<br>
 **Fonts used here are [Hack by source-foundry.][hack]<br>
