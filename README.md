@@ -107,12 +107,19 @@
 
 ## ▼ Cursors For Windows
 
-[![Material-Light Cursor](Images/Material-Light.png)](#)<br>
+[![Material-Light Cursor](Images/Material-Light.png)][material_light]<br>
 
-[![Volantes-Light Cursor](Images/Volantes-Light.png)](#)<br>
+## [Try It!][material_light]
 
-[![Volantes-Dark Cursor](Images/Volantes-Dark.png)](#)<br>
+[![Volantes-Light Cursor](Images/Volantes-Light.png)][volantes_light]<br>
 
+## [Try It!][volantes_light]
+
+[![Volantes-Dark Cursor](Images/Volantes-Dark.png)][volantes_dark]<br>
+
+## [Try It!][volantes_dark]
+
+\*\*Software used : Adobe Illustrator
 <br>
 
 <br>
@@ -151,3 +158,6 @@
 [firacode]: https://github.com/tonsky/FiraCode
 [libreoffice]: https://www.libreoffice.org/
 [pgp]: https://aystic.github.io/PublicKey/
+[material_light]: https://www.deviantart.com/aystic/art/Material-Light-879897389
+[volantes_dark]: https://www.deviantart.com/aystic/art/Volantes-Dark-879809065
+[volantes_light]: https://www.deviantart.com/aystic/art/Volantes-Light-879954119
