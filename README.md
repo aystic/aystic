@@ -66,7 +66,7 @@
 
 ## ▶ Currently Learning :
 
-◥ [![React](Images/reactlogosmall.png)](#)<br  >
+◥ [![React](Images/reactlogosmall.png)](#)<br>
 ◥ [![NodeJS](Images/nodejslogosmall.png)](#)
 
 <br>
@@ -100,8 +100,8 @@
 ## ▼
 
 [![Windows Customization](Images/windowsdesktop.png)](#)<br>
-**Fonts used here are\* _[Hack by source-foundry.][hack]_<br>
-**I am not the owner of the icons used in the dock.\*
+**Fonts used here are [Hack by source-foundry.][hack]<br>
+**I am not the owner of the icons used in the dock.
 
 <br>
 
@@ -139,7 +139,7 @@
 ## ▼
 
 [![Notes](Images/notes2.png)](#)<br>
-**Fonts used here are [FiraCode by Nikita Prokopov.][firacode]_<br>
+**Fonts used here are [FiraCode by Nikita Prokopov.][firacode]<br>
 **I used [Libreoffice][libreoffice] to make the notes.
 
 <br>
