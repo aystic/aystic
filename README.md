@@ -1,15 +1,13 @@
-
-<!-- 
+<!--
 * @Author: Mohit Pathak
 * @Date:   2021-01-30 03:39:33
 * @Last Modified by:   Mohit Pathak
 * @Last Modified time: 2021-02-02 10:05:09
  -->
 
+---
 
-
-***
-***
+---
 
 <br>
 
@@ -17,7 +15,7 @@
 
 <br>
 
-***
+---
 
 ## ▶ About Me :
 
@@ -31,26 +29,27 @@
 
 <br>
 
-***
-## ▶ My PGP Key :
-▼ [Get My PGP Key][PGP]
+---
 
-***
+## ▶ My PGP Key :
+
+▼ [Get My PGP Key][pgp]
+
+---
+
 ## ▶ Get In Touch :
 
-
-[◥ ![LinkedIn](Images/linkedinlogosmall.png)][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Github](Images/githublogosmall.png)][Github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Twitter](Images/twitterlogosmall.png)][Twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Telegram](Images/telegramlogosmall.png)][Telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Email](Images/emaillogosmall.png)][Email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![LinkedIn](Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Github](Images/githublogosmall.png)][github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Twitter](Images/twitterlogosmall.png)][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Telegram](Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[◥ ![Email](Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
-***
+---
 
 ## ▶ Things I Know :
-
 
 ◥ [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ◥ [![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +62,7 @@
 
 <br>
 
-***
+---
 
 ## ▶ Currently Learning :
 
@@ -72,71 +71,83 @@
 
 <br>
 
-***
+---
 
 ## ▶ My Latest Projects :
 
-
-▼ **[Charity Management System][Project]**
+▼ **[Charity Management System][project]**
 
 <br>
 
-***
+---
 
 ## ▶ My Github Stats :
 
 ## ▼
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-***
+---
 
 ## ▶ Some Cool Stuff I Built :
 
-
-▼ Building Skin For My Windows Machine (The default was kinda boring 😬)
+▼ Skin For Windows (The default was kinda boring 😬)
 
 <br>
 
 ## ▼
+
 [![Windows Customization](Images/windowsdesktop.png)](#)<br>
-**Fonts used here are* *[Hack by source-foundry.][Hack]*<br>
-**I am not the owner of the icons used in the dock.*
+**Fonts used here are\* _[Hack by source-foundry.][hack]_<br>
+**I am not the owner of the icons used in the dock.\*
 
 <br>
 
-***
+## ▼ Cursors For Windows
+
+[![Material Light Cursor](Images/Material_Light.png)](#)<br>
+
+[![Volantes Light Cursor](Images/Volantes_Light.png)](#)<br>
+
+[![Volantes Dark Cursor](Images/Volantes_Dark.png)](#)<br>
+
+<br>
+
+<br>
+
+---
 
 ## ▶ My Designs For Making Notes :
 
 <br>
 
 ## ▼
+
 [![Notes](Images/notes1.png)](#)
 
 <br>
 
 ## ▼
-[![Notes](Images/notes2.png)](#)<br>
-**Fonts used here are* *[FiraCode by Nikita Prokopov.][FiraCode]*<br>
-**I used* *[Libreoffice][Libreoffice]* *to make the notes.*
 
+[![Notes](Images/notes2.png)](#)<br>
+**Fonts used here are\* _[FiraCode by Nikita Prokopov.][firacode]_<br>
+**I used\* _[Libreoffice][libreoffice]_ _to make the notes._
 
 <br>
 
-***
-***
+---
 
+---
 
-
-[Email]: <mailto: pmohitb3011@gmail.com>
-[LinkedIn]: <https://www.linkedin.com/in/aystic/>
-[Twitter]: <https://twitter.com/aystic0_0>
-[Github]: <https://github.com/aystic>
-[Project]: <https://github.com/aystic/CharityManagementSystem>
-[Telegram]: <https://t.me/aystic0_0>
-[Hack]: <https://github.com/source-foundry/Hack>
-[FiraCode]: <https://github.com/tonsky/FiraCode>
-[Libreoffice]: <https://www.libreoffice.org/>
-[PGP]: <https://aystic.github.io/PublicKey/>
+[email]: <mailto: pmohitb3011@gmail.com>
+[linkedin]: https://www.linkedin.com/in/aystic/
+[twitter]: https://twitter.com/aystic0_0
+[github]: https://github.com/aystic
+[project]: https://github.com/aystic/CharityManagementSystem
+[telegram]: https://t.me/aystic0_0
+[hack]: https://github.com/source-foundry/Hack
+[firacode]: https://github.com/tonsky/FiraCode
+[libreoffice]: https://www.libreoffice.org/
+[pgp]: https://aystic.github.io/PublicKey/
