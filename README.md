@@ -142,7 +142,7 @@
 
 ---
 
-[email]: <mailto: pmohitb3011@gmail.com>
+[email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
 [twitter]: https://twitter.com/aystic0_0
 [github]: https://github.com/aystic
