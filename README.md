@@ -154,4 +154,4 @@
 [pgp]: https://aystic.github.io/PublicKey/
 [material_light]: https://www.deviantart.com/aystic/art/Material-Light-879897389
 [volantes_dark]: https://www.deviantart.com/aystic/art/Volantes-Dark-879809065
-[volantes_light]: https://www.deviantart.com/aystic/art/Volantes-Light-880011487
+[volantes_light]: https://www.deviantart.com/aystic/art/Volantes-Light-880018331
