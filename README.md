@@ -75,8 +75,8 @@
 
 ## ▶ My Latest Projects :
 
-▼ **[Charity Management System][project]**
-
+▼ **[Charity Management System][project1]**
+▼ **[Ready...Steady...Do!][project2]**
 <br>
 
 ---
@@ -90,9 +90,16 @@
 <br>
 
 ---
+
 <p align="center">
   <img src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<br>
+
+---
+
+
 ## ▶ Some Stuff I Built :
 
 ## ▼ Skin For Windows (The default was kinda boring 😬)
@@ -148,7 +155,8 @@
 [linkedin]: https://www.linkedin.com/in/aystic/
 [twitter]: https://twitter.com/aystic0_0
 [github]: https://github.com/aystic
-[project]: https://github.com/aystic/CharityManagementSystem
+[project1]: https://github.com/aystic/CharityManagementSystem
+[project2]: https://readysteadydo.netlify.app
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
