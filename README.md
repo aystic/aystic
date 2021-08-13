@@ -91,13 +91,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/aystic/aystic/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<br>
----
-
 ## ▶ Some Stuff I Built :
 
 ## ▼ Skin For Windows (The default was kinda boring 😬)
