@@ -91,7 +91,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/aystic/aystic/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 ## ▶ Some Stuff I Built :
 
