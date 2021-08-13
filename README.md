@@ -75,7 +75,7 @@
 
 ## ▶ My Latest Projects :
 
-▼ **[Charity Management System][project1]**
+▼ **[Charity Management System][project1]**<br>
 ▼ **[Ready...Steady...Do!][project2]**
 <br>
 
