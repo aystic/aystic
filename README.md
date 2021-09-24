@@ -49,30 +49,6 @@
 
 ---
 
-## ▶ Things I Know :
-
-◥ [![C](Images/clogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![CPP](Images/cpplogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![Python](Images/pythonlogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![HTML](Images/htmllogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![CSS](Images/csslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![JS](Images/jslogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![Matlab](Images/matlablogosmall.png)](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-◥ [![Adobe Illustrator](Images/illustratorlogosmall.png)](#)
-
-<br>
-
----
-
-## ▶ Currently Learning :
-
-◥ [![React](Images/reactlogosmall.png)](#)<br>
-◥ [![NodeJS](Images/nodejslogosmall.png)](#)
-
-<br>
-
----
-
 ## ▶ My Latest Projects :
 
 ▼ **[Charity Management System][project1]**<br>
