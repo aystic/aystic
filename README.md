@@ -24,8 +24,6 @@
 ▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I ❤ to </> and build cool stuff 😃<br>
 ▼ I ❤ aesthetic UIs, Designs and Customizing.<br>
-▼ I like to sing 🎤 and I was a participant at the West Zone Badminton Championship (CBSE) 🏸 held at Yugantar Public School, Rajnandgaon, Chattisgarh (India) in 2012.<br>
-▼ I am "positively" addicted to Runner's High and I am a 5K Jogger.🏃<br>
 
 <br>
 
