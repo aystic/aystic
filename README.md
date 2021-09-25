@@ -23,7 +23,7 @@
 
 ▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I ❤ to </> and build cool stuff 😃<br>
-▼ I ❤ aesthetic UIs, Designs and Customizing.<br>
+▼ I ❤ aesthetic UIs, Designs, Customizing & exploring things.<br>
 
 <br>
 
@@ -37,11 +37,9 @@
 
 ## ▶ Get In Touch :
 
-[◥ ![LinkedIn](Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Github](Images/githublogosmall.png)][github]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Twitter](Images/twitterlogosmall.png)][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Telegram](Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[◥ ![Email](Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram](Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -73,10 +71,9 @@
 
 ---
 
-
 ## ▶ Some Stuff I Built :
 
-## ▼ Skin For Windows (The default was kinda boring 😬)
+## ▼ Skin For Windows
 
 <br>
 
@@ -100,41 +97,20 @@
 
 ## [Try It!][volantes_dark]
 
-\*\*Software used : Adobe Illustrator
-<br>
-
-<br>
-
----
-
-<!-- ## ▶ My Designs For Making Notes :
-
-<br>
-
-[![Notes](Images/notes1.png)](#)
-
-<br>
-
-[![Notes](Images/notes2.png)](#)<br>
-**Fonts used here are [FiraCode by Nikita Prokopov.][firacode]<br>
-**Software used [Libreoffice][libreoffice]
-
+\*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
 <br>
 
 ---
 
---- -->
+---
 
 [email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
-[twitter]: https://twitter.com/aystic0_0
-[github]: https://github.com/aystic
 [project1]: https://github.com/aystic/CharityManagementSystem
 [project2]: https://readysteadydo.netlify.app
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
-[libreoffice]: https://www.libreoffice.org/
 [pgp]: https://aystic.github.io/PublicKey/
 [material_light]: https://www.deviantart.com/aystic/art/Material-Light-879897389
 [volantes_dark]: https://www.deviantart.com/aystic/art/Volantes-Dark-879809065
