@@ -107,7 +107,7 @@
 
 ---
 
-## ▶ My Designs For Making Notes :
+<!-- ## ▶ My Designs For Making Notes :
 
 <br>
 
@@ -123,7 +123,7 @@
 
 ---
 
----
+--- -->
 
 [email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
