@@ -2,7 +2,7 @@
 * @Author: Mohit Pathak
 * @Date:   2021-01-30 03:39:33
 * @Last Modified by:   Mohit Pathak
-* @Last Modified time: 2022-03-23 19:26:09
+* @Last Modified time: 2022-03-23 19:40:09
  -->
 
 ---
@@ -45,9 +45,10 @@
 
 ---
 
-## ▶ My Latest Projects :
+## ▶ Things I made while learning and tinkering :
 
 ▼ **[ReactMeals][project6]**<br>
+▼ **[ReduxCart][project7]**<br>
 ▼ **[PigGame][project5]**<br>
 ▼ **[Ready...Steady...Do!][project2]**<br>
 ▼ **[Charity Management System][project1]**<br>
@@ -122,6 +123,7 @@
 [project4]: https://aystic.github.io/GuessMyNumber/
 [project5]: https://aystic.github.io/PigGame/
 [project6]: https://aystic.github.io/ReactMeals/
+[project7]: https://aystic.github.io/ReduxCart/
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
