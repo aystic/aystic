@@ -2,7 +2,7 @@
 * @Author: Mohit Pathak
 * @Date:   2021-01-30 03:39:33
 * @Last Modified by:   Mohit Pathak
-* @Last Modified time: 2021-05-20 00:34:09
+* @Last Modified time: 2022-03-23 18:20:09
  -->
 
 ---
@@ -47,8 +47,13 @@
 
 ## ▶ My Latest Projects :
 
+▼ **[PigGame][project5]**<br>
+▼ **[Ready...Steady...Do!][project2]**<br>
 ▼ **[Charity Management System][project1]**<br>
-▼ **[Ready...Steady...Do!][project2]**
+▼ **[GetDaKolor][project3]**<br>
+▼ **[GuessMyNumber][project4]**<br>
+
+
 <br>
 
 ---
@@ -112,6 +117,9 @@
 [linkedin]: https://www.linkedin.com/in/aystic/
 [project1]: https://github.com/aystic/CharityManagementSystem
 [project2]: https://readysteadydo.netlify.app
+[project3]: https://aystic.github.io/GetDaKolor/
+[project4]: https://aystic.github.io/GuessMyNumber/
+[project5]: https://aystic.github.io/PigGame/
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
