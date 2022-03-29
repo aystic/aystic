@@ -29,9 +29,11 @@
 
 ---
 
+<!---
 ## ▶ My PGP Key :
 
 ▼ [Get My PGP Key][pgp]
+--->
 
 ---
 
@@ -61,8 +63,6 @@
 ---
 
 ## ▶ My Github Stats :
-
-## ▼
 
 ![](https://komarev.com/ghpvc/?username=aystic&color=brightgreen)
 
