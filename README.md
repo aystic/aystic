@@ -29,11 +29,10 @@
 
 ---
 
-<!---
+
 ## ▶ My PGP Key :
 
 ▼ [Get My PGP Key][pgp]
---->
 
 ---
 
