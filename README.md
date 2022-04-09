@@ -5,17 +5,12 @@
 * @Last Modified time: 2022-03-23 19:40:09
  -->
 
----
-
----
-
-<br>
-
 [![Welcome](Images/welcome1.png)](#)
 
 <br>
 
 ---
+
 
 ## ▶ About Me :
 
@@ -32,9 +27,12 @@
 
 ## ▶ My PGP Key :
 
-▼ [Get My PGP Key][pgp]
+▼ [**Get My PGP Key**][pgp]
+
+<br>
 
 ---
+
 
 ## ▶ Get In Touch :
 
@@ -46,6 +44,7 @@
 
 ---
 
+
 ## ▶ Things I made while learning and tinkering :
 
 ▼ **[ReactMeals][project6]**<br>
@@ -56,10 +55,10 @@
 ▼ **[GetDaKolor][project3]**<br>
 ▼ **[GuessMyNumber][project4]**<br>
 
-
 <br>
 
 ---
+
 
 ## ▶ My Github Stats :
 
@@ -73,6 +72,7 @@
 
 ---
 
+
 <p align="center">
   <img src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -80,6 +80,7 @@
 <br>
 
 ---
+
 
 ## ▶ Some Stuff I Built :
 
@@ -108,11 +109,11 @@
 ## [Try It!][volantes_dark]
 
 \*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
+
 <br>
 
 ---
 
----
 
 [email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
