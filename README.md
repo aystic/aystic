@@ -49,7 +49,6 @@
 
 ▼ **[ReactMeals][project6]**<br>
 ▼ **[ReduxCart][project7]**<br>
-▼ **[RichTextEditor][project8]**<br>
 ▼ **[PigGame][project5]**<br>
 ▼ **[Ready...Steady...Do!][project2]**<br>
 ▼ **[Charity Management System][project1]**<br>
@@ -125,7 +124,6 @@
 [project5]: https://aystic.github.io/PigGame/
 [project6]: https://aystic.github.io/ReactMeals/
 [project7]: https://aystic.github.io/ReduxCart/
-[project8]: https://aystic.github.io/RichTextEditor/
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
