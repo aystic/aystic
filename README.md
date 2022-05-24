@@ -7,32 +7,21 @@
 
 [![Welcome](Images/welcome1.png)](#)
 
-<br>
-
 ---
 
-
 ## ▶ About Me :
-
-<br>
 
 ▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I ❤ to </> and build cool stuff 😃<br>
 ▼ I ❤ aesthetic UIs, Designs, Customizing & exploring things.<br>
 
-<br>
-
 ---
-
 
 ## ▶ My PGP Key :
 
 ▼ [**Get My PGP Key**][pgp]
 
-<br>
-
 ---
-
 
 ## ▶ Get In Touch :
 
@@ -40,10 +29,7 @@
 [![Telegram](Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
-
 ---
-
 
 ## ▶ Things I made while learning and tinkering :
 
@@ -55,44 +41,27 @@
 ▼ **[GetDaKolor][project3]**<br>
 ▼ **[GuessMyNumber][project4]**<br>
 
-<br>
-
 ---
-
 
 ## ▶ My Github Stats :
 
 ![](https://komarev.com/ghpvc/?username=aystic&color=brightgreen)
 
-<br>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
----
-
 
 <p align="center">
   <img src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<br>
-
 ---
-
 
 ## ▶ Some Stuff I Built :
 
 ## ▼ Skin For Windows
 
-<br>
-
 [![Windows Customization](Images/windowsdesktop.png)](#)<br>
 **Fonts used here are [Hack by source-foundry.][hack]<br>
 **I am not the owner of the icons used in the dock.
-
-<br>
 
 ## ▼ Cursors For Windows
 
@@ -109,8 +78,6 @@
 ## [Try It!][volantes_dark]
 
 \*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
-
-<br>
 
 ---
 
