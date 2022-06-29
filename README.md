@@ -12,8 +12,11 @@
 ## ▶ About Me :
 
 ▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
-▼ I ❤ to </> and build cool stuff 😃<br>
-▼ I ❤ aesthetic UIs, Designs, Customizing & exploring things.<br>
+▼ I am a fullstack developer having experience in working with ReactJS, NodeJS, ExpressJS, MySQL, MongoDB.<br>
+▼ Currently I am building a fullstack SPA which will be useful in our daily lives as a productivity tool & exploring DevOps.<br>
+▼ I adore GNU/Linux.<br>
+▼ Beautiful UIs and Illustrations make me ecstatic.<br>
+▼ Constantly exploring and learning new things.<br>
 
 ---
 
