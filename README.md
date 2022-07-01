@@ -36,6 +36,7 @@
 
 ## ▶ Things I made while learning and tinkering :
 
+▼ **[NodeShop][project8]**<br>
 ▼ **[ReactMeals][project6]**<br>
 ▼ **[ReduxCart][project7]**<br>
 ▼ **[PigGame][project5]**<br>
@@ -94,6 +95,7 @@
 [project5]: https://aystic.github.io/PigGame/
 [project6]: https://aystic.github.io/ReactMeals/
 [project7]: https://aystic.github.io/ReduxCart/
+[project8]: https://github.com/aystic/NodeShop
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
