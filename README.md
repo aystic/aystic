@@ -89,12 +89,12 @@
 [email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
 [project1]: https://github.com/aystic/CharityManagementSystem
-[project2]: https://readysteadydo.netlify.app
-[project3]: https://aystic.github.io/GetDaKolor/
-[project4]: https://aystic.github.io/GuessMyNumber/
-[project5]: https://aystic.github.io/PigGame/
-[project6]: https://aystic.github.io/ReactMeals/
-[project7]: https://aystic.github.io/ReduxCart/
+[project2]: https://github.com/aystic/ReadySteadyDo
+[project3]: https://github.com/aystic/GetDaKolor
+[project4]: https://github.com/aystic/GuessMyNumber
+[project5]: https://github.com/aystic/PigGame
+[project6]: https://github.com/aystic/ReactMeals
+[project7]: https://github.com/aystic/ReduxCart
 [project8]: https://github.com/aystic/NodeShop
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
