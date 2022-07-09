@@ -70,17 +70,18 @@
 
 ## ▼ Cursors For Windows
 
-[![Material-Light Cursor](Images/Material-Light.png)][material_light]<br>
+[![Volantes-Dark Cursor](Images/Volantes-Dark.png)][volantes_dark]<br>
 
-## [Try It!][material_light]
+## [Try It!][volantes_dark]
 
 [![Volantes-Light Cursor](Images/Volantes-Light.png)][volantes_light]<br>
 
 ## [Try It!][volantes_light]
 
-[![Volantes-Dark Cursor](Images/Volantes-Dark.png)][volantes_dark]<br>
+[![Material-Light Cursor](Images/Material-Light.png)][material_light]<br>
 
-## [Try It!][volantes_dark]
+## [Try It!][material_light]
+
 
 \*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
 
