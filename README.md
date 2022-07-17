@@ -5,9 +5,7 @@
 * @Last Modified time: 2022-03-23 19:40:09
  -->
 
-[![Welcome](Images/welcome1.png)](#)
-
----
+# Hi! I am Mohit Pathak👋
 
 ## ▶ About Me :
 
@@ -17,6 +15,12 @@
 ▼ I adore **GNU/Linux**.<br>
 ▼ Beautiful UIs and Illustrations make me ecstatic.<br>
 ▼ Constantly exploring and learning new things.<br>
+
+---
+
+## ▶ Things I know :
+
+![Tools and Technologies](Images/Banner.svg)
 
 ---
 
@@ -82,11 +86,9 @@
 
 ## [Try It!][material_light]
 
-
 \*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
 
 ---
-
 
 [email]: <mailto: itspmohit@gmail.com>
 [linkedin]: https://www.linkedin.com/in/aystic/
