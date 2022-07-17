@@ -20,7 +20,7 @@
 
 ## ▶ Things I know :
 
-![Tools and Technologies](Images/Banner.svg)
+![Tools and Technologies](Images/Banner.png)
 
 ---
 
