@@ -2,10 +2,10 @@
 * @Author: Mohit Pathak
 * @Date:   2021-01-30 03:39:33
 * @Last Modified by:   Mohit Pathak
-* @Last Modified time: 2022-03-23 19:40:09
+* @Last Modified time: 2022-07-26 07:12:53
  -->
 
-# Hi! I am Mohit Pathak👋
+# Hi! Its Mohit here.&nbsp;<img height="32px" src="./Images/wave.gif"/>
 
 ## ▶ About Me :
 
