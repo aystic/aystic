@@ -66,27 +66,12 @@
 
 ## ▶ Some Stuff I Built :
 
-## ▼ Skin For Windows
+## ▼ Skin and Cursors For Windows
 
-[![Windows Customization](Images/windowsdesktop.png)](#)<br>
-**Fonts used here are [Hack by source-foundry.][hack]<br>
-**I am not the owner of the icons used in the dock.
-
-## ▼ Cursors For Windows
-
-[![Volantes-Dark Cursor](Images/Volantes-Dark.png)][volantes_dark]<br>
-
-## [Try It!][volantes_dark]
-
-[![Volantes-Light Cursor](Images/Volantes-Light.png)][volantes_light]<br>
-
-## [Try It!][volantes_light]
-
-[![Material-Light Cursor](Images/Material-Light.png)][material_light]<br>
-
-## [Try It!][material_light]
-
-\*\*Software used : Adobe Illustrator & RealWorld Cursor Editor
+<a href="#"><img src="Images/windowsdesktop.png" width="512px" style="margin-right:32px;margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Dark-879809065"><img src="Images/Volantes-Dark.png" width="512px" style="margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Light-880018331"><img src="Images/Volantes-Light.png" width="512px" style="margin-right:32px"/></a>
+<a href="https://www.deviantart.com/aystic/art/Material-Light-879897389"><img src="Images/Material-Light.png" width="512px" /></a>
 
 ---
 
