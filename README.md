@@ -68,10 +68,10 @@
 
 ## ▼ Skin and Cursors For Windows
 
-<a href="#"><img src="Images/windowsdesktop.png" width="512px" style="margin-right:32px;margin-bottom:32px;"/></a>
-<a href="https://www.deviantart.com/aystic/art/Volantes-Dark-879809065"><img src="Images/Volantes-Dark.png" width="512px" style="margin-bottom:32px;"/></a>
-<a href="https://www.deviantart.com/aystic/art/Volantes-Light-880018331"><img src="Images/Volantes-Light.png" width="512px" style="margin-right:32px"/></a>
-<a href="https://www.deviantart.com/aystic/art/Material-Light-879897389"><img src="Images/Material-Light.png" width="512px" /></a>
+<a href="#"><img src="Images/windowsdesktop.png" width="200px" style="margin-right:32px;margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Dark-879809065"><img src="Images/Volantes-Dark.png" width="200px" style="margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Light-880018331"><img src="Images/Volantes-Light.png" width="200px" style="margin-right:32px"/></a>
+<a href="https://www.deviantart.com/aystic/art/Material-Light-879897389"><img src="Images/Material-Light.png" width="200px" /></a>
 
 ---
 
