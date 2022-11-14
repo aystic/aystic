@@ -41,6 +41,7 @@
 ## ▶ Things I made while learning and tinkering :
 
 ▼ **[NodeShop][project8]**<br>
+▼ **[MusicParty][project10]**<br>
 ▼ **[SocialNetwork][project9]**<br>
 ▼ **[ReactMeals][project6]**<br>
 ▼ **[ReduxCart][project7]**<br>
@@ -86,6 +87,7 @@
 [project7]: https://github.com/aystic/ReduxCart
 [project8]: https://github.com/aystic/NodeShop
 [project9]: https://github.com/aystic/Social-Network
+[project10]: https://github.com/aystic/MusicParty
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
