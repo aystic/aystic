@@ -20,7 +20,7 @@
 
 ## ▶ Things I know :
 
-![Tools and Technologies](Images/Banner.png)
+![Tools and Technologies](./Images/Banner.png)
 
 ---
 
@@ -32,9 +32,9 @@
 
 ## ▶ Get In Touch :
 
-[![LinkedIn](Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram](Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](./Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram](./Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](./Images/emaillogosmall.png)][email]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -69,10 +69,10 @@
 
 ## ▼ Skin and Cursors For Windows
 
-<a href="#"><img src="Images/windowsdesktop.png" width="400px" style="margin-right:32px;margin-bottom:32px;"/></a>
-<a href="https://www.deviantart.com/aystic/art/Volantes-Dark-879809065"><img src="Images/Volantes-Dark.png" width="400px" style="margin-bottom:32px;"/></a>
-<a href="https://www.deviantart.com/aystic/art/Volantes-Light-880018331"><img src="Images/Volantes-Light.png" width="400px" style="margin-right:32px"/></a>
-<a href="https://www.deviantart.com/aystic/art/Material-Light-879897389"><img src="Images/Material-Light.png" width="400px" /></a>
+<a href="#"><img src="./Images/windowsdesktop.png" width="400px" style="margin-right:32px;margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Dark-879809065"><img src="./Images/Volantes-Dark.png" width="400px" style="margin-bottom:32px;"/></a>
+<a href="https://www.deviantart.com/aystic/art/Volantes-Light-880018331"><img src="./Images/Volantes-Light.png" width="400px" style="margin-right:32px"/></a>
+<a href="https://www.deviantart.com/aystic/art/Material-Light-879897389"><img src="./Images/Material-Light.png" width="400px" /></a>
 
 ---
 
