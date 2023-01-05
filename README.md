@@ -55,13 +55,21 @@
 
 ## ▶ My Github Stats :
 
-![](https://komarev.com/ghpvc/?username=aystic&color=brightgreen)
+<a href="#">
+ <img style="margin-right:64px;" align="left" src="https://github-readme-stats.vercel.app/api?username=aystic&count_private=true&hide=stars&show_icons=true&theme=great-gatsby&border_radius=16px&border_color=#999" alt="Mohit's Github Stats"/>
+</a>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aystic&theme=great-gatsby&border_radius=16px&border_color=#999" />
+</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aystic&hide=stars,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
 
-<p align="center">
-  <img src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+
+
+<a href="#">
+  <img align="center" src="https://github.com/aystic/aystic/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</a>
 
 ---
 
