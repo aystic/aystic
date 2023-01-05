@@ -56,10 +56,10 @@
 ## ▶ My Github Stats :
 
 <a href="#">
- <img style="margin-right:64px;" align="left" src="https://github-readme-stats.vercel.app/api?username=aystic&count_private=true&hide=stars&show_icons=true&theme=great-gatsby&border_radius=16px&border_color=#999" alt="Mohit's Github Stats"/>
+ <img height="175px" style="margin-right:64px;" src="https://github-readme-stats.vercel.app/api?username=aystic&count_private=true&hide=stars&show_icons=true&theme=great-gatsby&border_radius=16px&border_color=#999" alt="Mohit's Github Stats"/>
 </a>
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aystic&layout=compact&hide=html,css&langs_count=10&theme=great-gatsby&border_radius=16px&border_color=#999"/> 
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aystic&layout=compact&hide=html,css&langs_count=10&theme=great-gatsby&border_radius=16px&border_color=#999"/> 
 </a>
 
 <br/>
