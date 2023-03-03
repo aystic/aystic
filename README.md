@@ -47,7 +47,7 @@
 
 ---
 
-## Some of my notes
+## ▶ Some of my notes
 ▼ **[Git][notes1]**<br>
 ▼ **[C++ - STL][notes2]**<br>
 ▼ **[Using regex in JS][notes3]**<br>
