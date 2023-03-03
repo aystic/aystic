@@ -1,10 +1,3 @@
-<!--
-* @Author: Mohit Pathak
-* @Date:   2021-01-30 03:39:33
-* @Last Modified by:   Mohit Pathak
-* @Last Modified time: 2022-07-26 07:12:53
- -->
-
 # Hi! Its Mohit here.&nbsp;<img height="32px" src="./Images/wave.gif"/>
 
 ## ▶ About Me :
@@ -51,6 +44,14 @@
 ▼ **[Charity Management System][project1]**<br>
 ▼ **[GetDaKolor][project3]**<br>
 ▼ **[GuessMyNumber][project4]**<br>
+
+---
+
+## Some of my notes
+▼ **[Git][notes1]**<br>
+▼ **[C++ - STL][notes2]**<br>
+▼ **[Using regex in JS][notes3]**<br>
+▼ **[Docker (In progress)][notes4]**<br>
 
 ---
 
@@ -102,3 +103,7 @@
 [material_light]: https://www.deviantart.com/aystic/art/Material-Light-879897389
 [volantes_dark]: https://www.deviantart.com/aystic/art/Volantes-Dark-879809065
 [volantes_light]: https://www.deviantart.com/aystic/art/Volantes-Light-880018331
+[notes1]: https://aystic.github.io/GitNotes/
+[notes2]: https://aystic.github.io/CPP-STL/
+[notes3]: https://aystic.github.io/jsRegex/
+[notes4]: https://aystic.github.io/Docker/
