@@ -63,6 +63,10 @@
 <a href="#">
   <img height="175px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aystic&layout=compact&hide=html,css&langs_count=10&theme=great-gatsby&border_radius=16px&border_color=#999"/> 
 </a>
+<br/>
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=aystic&color=e67e22"/>
+</a>
 
 <br/>
 
