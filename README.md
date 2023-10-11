@@ -13,7 +13,7 @@
 
 ## ▶ Things I know :
 
-![Tools and Technologies](./Images/Banner.png)
+![Tools and Technologies](./Images/Banner.svg)
 
 ---
 
