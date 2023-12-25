@@ -34,6 +34,7 @@
 ## ▶ Things I made while learning and tinkering :
 
 ▼ **[Realtime Customer Query Resolution][project11]**<br>
+▼ **[The weather man][project12]**<br>
 ▼ **[NodeShop][project8]**<br>
 ▼ **[MusicParty][project10]**<br>
 ▼ **[SocialNetwork][project9]**<br>
@@ -100,6 +101,7 @@
 [project9]: https://github.com/aystic/Social-Network
 [project10]: https://github.com/aystic/MusicParty
 [project11]: https://github.com/aystic/CustomerQueryResolution
+[project12]: https://github.com/aystic/theweatherman
 [telegram]: https://t.me/aystic0_0
 [hack]: https://github.com/source-foundry/Hack
 [firacode]: https://github.com/tonsky/FiraCode
