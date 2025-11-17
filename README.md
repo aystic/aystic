@@ -1,6 +1,6 @@
 # Hi! Its Mohit here.&nbsp;<img height="32px" src="./Images/wave.gif"/>
 
-## ▶ About Me :
+## ▶ About Me
 
 ▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
 ▼ I am a **FullStack developer** having experience in working with **ReactJS, NodeJS, ExpressJS, MySQL, MongoDB**.<br>
@@ -11,19 +11,17 @@
 
 ---
 
-## ▶ Things I know :
+## ▶ Things I know
 
 ![Tools and Technologies](./Images/Banner.svg)
 
 ---
 
-## ▶ My PGP Key :
-
-▼ [**Get My PGP Key**][pgp]
+## ▶ My PGP Key
 
 ---
 
-## ▶ Get In Touch :
+## ▶ Get In Touch
 
 [![LinkedIn](./Images/linkedinlogosmall.png)][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](./Images/telegramlogosmall.png)][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +29,7 @@
 
 ---
 
-## ▶ Things I made while learning and tinkering :
+## ▶ Things I made while learning and tinkering
 
 ▼ **[Realtime Customer Query Resolution][project11]**<br>
 ▼ **[The weather man][project12]**<br>
@@ -49,6 +47,7 @@
 ---
 
 ## ▶ Some of my notes
+
 ▼ **[Git][notes1]**<br>
 ▼ **[C++ - STL][notes2]**<br>
 ▼ **[Using regex in JS][notes3]**<br>
@@ -56,13 +55,13 @@
 
 ---
 
-## ▶ My Github Stats :
+## ▶ My Github Stats
 
 <a href="#">
  <img height="175px" style="margin-right:64px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aystic&count_private=true&hide=stars&show_icons=true&theme=great-gatsby&border_radius=16px&border_color=#999" alt="Mohit's Github Stats"/>
 </a>
 <a href="#">
-  <img height="175px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aystic&layout=compact&hide=html,css&langs_count=10&theme=great-gatsby&border_radius=16px&border_color=#999"/> 
+  <img height="175px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aystic&layout=compact&hide=html,css&langs_count=10&theme=great-gatsby&border_radius=16px&border_color=#999"/>
 </a>
 <br/>
 <a href="#">
@@ -77,7 +76,7 @@
 
 ---
 
-## ▶ Some Stuff I Built :
+## ▶ Some Stuff I Built
 
 ## ▼ Skin and Cursors For Windows
 
@@ -103,12 +102,6 @@
 [project11]: https://github.com/aystic/CustomerQueryResolution
 [project12]: https://github.com/aystic/theweatherman
 [telegram]: https://t.me/aystic0_0
-[hack]: https://github.com/source-foundry/Hack
-[firacode]: https://github.com/tonsky/FiraCode
-[pgp]: https://aystic.github.io/PublicKey/
-[material_light]: https://www.deviantart.com/aystic/art/Material-Light-879897389
-[volantes_dark]: https://www.deviantart.com/aystic/art/Volantes-Dark-879809065
-[volantes_light]: https://www.deviantart.com/aystic/art/Volantes-Light-880018331
 [notes1]: https://aystic.github.io/GitNotes/
 [notes2]: https://aystic.github.io/CPP-STL/
 [notes3]: https://aystic.github.io/jsRegex/
