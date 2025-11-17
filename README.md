@@ -17,7 +17,9 @@
 
 ---
 
-## ▶ My PGP Key
+## ▶ My GPG Key
+
+▼ [Get my public key][pgp-key]
 
 ---
 
@@ -106,3 +108,4 @@
 [notes2]: https://aystic.github.io/CPP-STL/
 [notes3]: https://aystic.github.io/jsRegex/
 [notes4]: https://aystic.github.io/Docker/
+[pgp-key]: https://github.com/aystic.gpg
