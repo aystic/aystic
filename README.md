@@ -2,12 +2,11 @@
 
 ## ▶ About Me
 
-▼ I am a **Computer Engineering** undergrad at **J.C. Bose University of Science and Technology, YMCA**🎓<br>
-▼ I am a **FullStack developer** having experience in working with **ReactJS, NodeJS, ExpressJS, MySQL, MongoDB**.<br>
-▼ Currently, I am building a full-stack SPA which will be useful in our daily lives as a productivity tool & exploring DevOps.<br>
-▼ I adore **GNU/Linux**.<br>
-▼ Beautiful UIs and Illustrations make me ecstatic.<br>
-▼ Constantly exploring and learning new things.<br>
+▼ Graduated with a degree in Computer Engineering from J.C. Bose University of Science and Technology, YMCA, in 2023.<br>
+▼ I am a passionate Software Engineer with experience in Ruby on Rails, ReactJS, Ruby, JavaScript, PostgreSQL, Docker, Linux, and AWS.<br>
+▼ I adore GNU/Linux. My first “Eureka Moment” was when I built a simple website using HTML, CSS, and JS, and the second was when I dual-booted Ubuntu on my laptop and explored Linux. I have done my fair share of tinkering and hacking on different Linux systems and eventually settled on Fedora as my daily driver.<br>
+▼ I am constantly exploring and learning new things. I like reading technical and personal development books and diving deep into the technical documentation of whatever fascinates me.<br>
+▼ When not at my desk, you’ll find me either spending time in nature or carving corners on my motorcycle in the twisties.<br>
 
 ---
 
