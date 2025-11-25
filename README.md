@@ -8,8 +8,7 @@
 
 <a href="#"><img src="./Images/ubuntu.webp" width="400px"/></a>
 
-▼ I am constantly exploring and learning new things. I like reading technical and personal development books and diving deep into the technical documentation of whatever fascinates me.
-
+▼ I am constantly exploring and learning new things. I like reading technical and personal development books and diving deep into the technical documentation of whatever fascinates me.  
 ▼ When not at my desk, you’ll find me either spending time in nature
 
 <a href="#"><img src="./Images/nature.webp" width="400px"/></a>
